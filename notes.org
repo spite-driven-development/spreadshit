@@ -1,0 +1,4 @@
+* reading group
+** TODO read the Naiad paper
+https://dl.acm.org/doi/pdf/10.1145/2517349.2522738
+Add your notes here!
